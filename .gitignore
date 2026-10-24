@@ -1,0 +1,7 @@
+.venv
+build
+archive
+dist
+*.MOV
+*.sqlite
+*.db
